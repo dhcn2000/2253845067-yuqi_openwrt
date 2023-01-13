@@ -15,4 +15,4 @@
 
 # Add a feed source
 #echo 'src-git openwrt-packages https://github.com/godros/god-openwrt-packages' >>feeds.conf.default
-echo 'src-git openwrt-iptvhelper https://github.com/riverscn/openwrt-iptvhelper' >>feeds.conf.default
+#echo 'src-git openwrt-iptvhelper https://github.com/riverscn/openwrt-iptvhelper' >>feeds.conf.default
