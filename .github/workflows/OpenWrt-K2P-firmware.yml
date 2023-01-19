@@ -26,7 +26,7 @@ env:
   REPO_URL: https://github.com/dhcn2000/coolsnowwolf-lede
   REPO_BRANCH: 20220505
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: K2P-JJ.config
+  CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   TZ: Asia/Shanghai
