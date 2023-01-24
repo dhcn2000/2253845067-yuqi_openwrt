@@ -23,7 +23,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/dhcn2000/coolsnowwolf-lede.git
+  REPO_URL: https://github.com/dhcn2000/coolsnowwolf-lede
   REPO_BRANCH: 20220505
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: K2P0125.config
