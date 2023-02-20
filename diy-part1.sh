@@ -16,6 +16,6 @@
 # Add a feed source
 #echo 'src-git openwrt-packages https://github.com/godros/god-openwrt-packages' >>feeds.conf.default
 echo 'src-git iptvhelper https://github.com/riverscn/openwrt-iptvhelper.git' >>feeds.conf.default
-#echo 'src-git omcproxy https://github.com/riverscn/luci-app-omcproxy.git' >>feeds.conf.default
-#git clone https://github.com/riverscn/luci-app-omcproxy.git package/luci-app-omcproxy
+echo 'src-git omcproxy https://github.com/riverscn/luci-app-omcproxy.git' >>feeds.conf.default
+git clone https://github.com/riverscn/luci-app-omcproxy.git package/luci-app-omcproxy
 git clone https://github.com/riverscn/openwrt-iptvhelper.git package/iptvhelper
